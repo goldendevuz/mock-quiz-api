@@ -1,1 +1,1 @@
-# mock-quiz-api
+# odoo-quiz-api
